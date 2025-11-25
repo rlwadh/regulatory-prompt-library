@@ -73,7 +73,8 @@ Unlike random prompt lists found on the internet, this library is generated via 
 ### Option B: The "Power User" Method (Python)
 Clone the repo and generate your own custom batches:
 
-```bash
+
+bash
 git clone [https://github.com/rlwadh/regulatory-prompt-library.git](https://github.com/rlwadh/regulatory-prompt-library.git)
 cd regulatory-prompt-library
 python main.py
